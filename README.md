@@ -1,4 +1,4 @@
 
 ### Demo Screeshots
 
-![Ecommerce Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Ecommerce Desktop Demo](./desktop.png "Desktop Demo")
